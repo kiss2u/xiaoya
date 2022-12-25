@@ -141,7 +141,7 @@
 	    "searchable":1,
 	    "quickSearch":1,
 	    "filterable":0,
-	    "ext":"http://101.34.67.237/txt/json/alist.json"
+	    "ext":"https://gcore.jsdelivr.net/gh/kiss2u/xiaoya/my.json"
 	},
 	{
             "key": "csp_新视觉",
