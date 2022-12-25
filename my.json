@@ -141,7 +141,7 @@
 	    "searchable":1,
 	    "quickSearch":1,
 	    "filterable":0,
-	    "ext":"https://gcore.jsdelivr.net/gh/kiss2u/xiaoya/my.json"
+	    "ext":"https://gcore.jsdelivr.net/gh/kiss2u/xiaoya/my.json;50;video"
 	},
 	{
             "key": "csp_新视觉",
