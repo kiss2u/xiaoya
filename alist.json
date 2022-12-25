@@ -1,0 +1,15 @@
+[{
+"name": "小雅仙女",
+"server": "http://192.168.100.160:5678/",
+"startPage": "/",
+"showAll": false,
+"search": true,
+"params": {
+"/abc": {
+"password": "123"
+},
+"/abc/abc": {
+"password": "123"
+}
+}
+}]
